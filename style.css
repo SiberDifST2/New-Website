@@ -33,7 +33,7 @@ body {font-family: Arial, Helvetica, sans-serif; margin: 0; font-weight: lighter
 .grid3 {box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 1px 0 rgba(0, 0, 0, 0.19); padding: 20px;}
 .grid3 a{ text-decoration: none; border: 1px solid transparent; padding: 10px; background:#1CAAE9; border-radius: 50px; color: white; -webkit-border-radius: 50px; -moz-border-radius: 50px; -ms-border-radius: 50px; -o-border-radius: 50px; }
 .grid3 img { border-radius: 4px 4px 0 0; -webkit-border-radius: 4px 4px 0 0; -moz-border-radius: 4px 4px 0 0; -ms-border-radius: 4px 4px 0 0; -o-border-radius: 4px 4px 0 0; }
-.kontak {background-image: url(img/bg2.png); height: 80vh; background-size: cover; width: 100%;}
+.kontak {background-image: url(img/bg2.png); height: 20vh; background-size: cover; width: 100%;}
 .des {width: 20%; padding-left: 120px; color: white; padding-top: 80px;}
 .footer {background: black; color: white; opacity: 90%; padding: 20px;padding-left: 120px;}
 .footer p{opacity: 50%;}
